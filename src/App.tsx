@@ -1,10 +1,10 @@
 import React from 'react';
-import WishmakerProgram from './components/WishmakerProgram';
+import RefinedWishmakersInterface from './components/RefinedWishmakersInterface';
 
 function App() {
   return (
     <div>
-      <WishmakerProgram />
+      <RefinedWishmakersInterface />
     </div>
   );
 }
